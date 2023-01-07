@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/builderhub-platform/prettier-config/compare/v0.0.6...v0.0.7) (2023-01-07)
+
+
+### Features
+
+* **peerDeps:** add prettier ([e9e82da](https://github.com/builderhub-platform/prettier-config/commit/e9e82da27b484c3819fcd83d3ac9d47c7b1665c4))
+
 ### [0.0.6](https://github.com/builderhub-platform/prettier-config/compare/v0.0.5...v0.0.6) (2023-01-07)
 
 
