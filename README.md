@@ -7,7 +7,7 @@ Standard extensible prettier configuration for Builderhub Platform Dev team proj
 ## Installation
 
 ```
-npm install -D @builderhub/prettier-config prettier
+npm install -D @builderhub/prettier-config
 ```
 
 ## Usage
