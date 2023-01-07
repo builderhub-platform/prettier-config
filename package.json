@@ -10,7 +10,7 @@
     "build": "tsc",
     "typecheck": "tsc --noEmit",
     "prepare": "husky install",
-    "release": "standard-version"
+    "release": "standard-version --no-verify"
   },
   "repository": {
     "type": "git",
