@@ -20,7 +20,7 @@ In your `package.json`
 }
 ```
 
-If you wish you extend these settings then in your `.prettierrc.js`
+If you wish you extend these settings then in your `.prettierrc.js` or `prettier.config.js`
 
 ```js
 module.exports = {
