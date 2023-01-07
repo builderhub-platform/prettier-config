@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/builderhub-platform/prettier-config/compare/v0.0.5...v0.0.6) (2023-01-07)
+
+
+### Bug Fixes
+
+* **ci:** --access=public ([9748a14](https://github.com/builderhub-platform/prettier-config/commit/9748a14f6a9cfdf41b0f2f9e57ab9c25d018a5ef))
+
 ### [0.0.5](https://github.com/builderhub-platform/prettier-config/compare/v0.0.4...v0.0.5) (2023-01-07)
 
 
