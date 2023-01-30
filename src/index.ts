@@ -11,4 +11,4 @@ const config: Config = {
   bracketSpacing: true,
 };
 
-export default config;
+module.exports = config;
