@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@types/node': 18.11.18
+  '@types/node': 18.15.3
   '@types/prettier': 2.7.2
   husky: 8.0.3
   lint-staged: 13.1.0
@@ -14,7 +14,7 @@ dependencies:
   prettier: 2.8.3
 
 devDependencies:
-  '@types/node': 18.11.18
+  '@types/node': 18.15.3
   '@types/prettier': 2.7.2
   husky: 8.0.3
   lint-staged: 13.1.0
@@ -58,8 +58,8 @@ packages:
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
     dev: true
 
-  /@types/node/18.11.18:
-    resolution: {integrity: sha512-DHQpWGjyQKSHj3ebjFI/wRKcqQcdR+MoFBygntYOZytCqNfkd2ZC4ARDJ2DQqhjH5p85Nnd3jhUJIXrszFX/JA==}
+  /@types/node/18.15.3:
+    resolution: {integrity: sha512-p6ua9zBxz5otCmbpb5D3U4B5Nanw6Pk3PPyX05xnxbB/fRv71N7CPmORg7uAD5P70T0xmx1pzAx/FUfa5X+3cw==}
     dev: true
 
   /@types/normalize-package-data/2.4.1:
