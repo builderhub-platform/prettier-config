@@ -1,6 +1,6 @@
 {
   "name": "@builderhub/prettier-config",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Builderhub prettier config",
   "main": "dist/index.js",
   "files": [
